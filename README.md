@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hammad102030
+- 👋 Hi, I’m @m.hammad abbasi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-hammad102030/hammad102030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+muhammad hammad abbsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
